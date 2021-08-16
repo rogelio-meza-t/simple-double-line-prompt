@@ -5,5 +5,5 @@ A simple Oh-My-Zsh theme for those people with super long prompt lines
 
 ## Usage
 
-* Download `` into your Oh-My-Zsh themes directory
-* Update your `.zshrc` adding or replacing `ZSH_THEME` to `ZSH_THEME=simple-double-line-prompt` 
+* Download `simple-double-line-prompt.zsh-theme` into your Oh-My-Zsh themes directory
+* Update your `.zshrc` or `.profile`, adding or replacing `ZSH_THEME` to `ZSH_THEME=simple-double-line-prompt` 
